@@ -3,9 +3,10 @@ It is a repository of additional modules for kivy frameworks. All of the work ar
 Do not thank me. :D
 Its a responisibility
 
-#code starts here
+<pre>
 #Change background color of a kivy layout
 #Place the CustomGraphics.py file to a folder
+#code starts here
 
 import sys
 sys.path.append([path to CustomGraphics.py])
@@ -25,3 +26,4 @@ if __name__ == '__main__':
 	TestApp().run()
 	
 #code ends here
+</pre>
